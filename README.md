@@ -1,7 +1,7 @@
- 👋 Hi, I’m @Asmae-Elkarama
- 👀 I’m interested in IOT and AI.
- 🌱 I’m currently learning IOT, machine learning and web and mobile development.
- 📫 How to reach me: 
+ <div>👋 Hi, I’m @Asmae-Elkarama. </div>
+ <div>👀 I’m interested in IOT and AI.</div>
+ <div>🌱 I’m currently learning IOT, machine learning and web and mobile development.</div>
+ <div>📫 How to reach me: </div>
  <ul> 
   <li> Linkden: Asmae Elkarama </li>
   <li> Email: asmaeelkarama5@gmail.com </li>
