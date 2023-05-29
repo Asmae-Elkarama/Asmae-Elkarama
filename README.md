@@ -1,6 +1,6 @@
  <div>👋 Hi, I’m @Asmae-Elkarama. </div>
  <div>👀 I’m interested in IOT and AI.</div>
- <div>🌱 I’m currently learning IOT, machine learning and web and mobile development.</div>
+ <div>🌱 I’m currently learning IOT, machine learning, web and mobile development.</div>
  <div>📫 How to reach me: </div>
  <ul> 
   <li> Linkden: Asmae Elkarama </li>
