@@ -3,7 +3,6 @@
  <div>🌱 I’m currently learning IOT, machine learning, web and mobile development.</div>
  <div>📫 How to reach me: </div>
  <ul> 
-  <li> Linkden: Asmae Elkarama </li>
   <li> Email: asmaeelkarama5@gmail.com </li>
  </ul>
 
